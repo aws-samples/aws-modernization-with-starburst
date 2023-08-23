@@ -77,3 +77,8 @@ weight = 23
 [markup]
   defaultMarkdownHandler = "goldmark"
 
+[Languages] # Modify to change the language/version settings and/or version secondary extensions
+[Languages.en]
+title = "English"
+weight = 1
+languageName = "English"
