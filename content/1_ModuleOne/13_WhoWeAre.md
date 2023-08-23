@@ -4,16 +4,8 @@ chapter: true
 weight: 3 # MODIFY THIS VALUE TO REFLECT THE ORDERING OF THE MODULES IF APPLICABLE
 ---
 
-# Who Are We? <!-- MODIFY THIS HEADING TO REFLECT THE PROBLEM THE WORKSHOP IS ADDRESSING -->
+# Get to know Starburst <!-- MODIFY THIS HEADING TO REFLECT THE PROBLEM THE WORKSHOP IS ADDRESSING -->
 
-## Submodule Three Heading <!-- MODIFY THIS SUBHEADING -->
-This paragraph block should be a brief introduction to the partner, their history, goals, partnerships, and accolades. <br>
+**Starburst’s mission is to free our customers to see the invisible and achieve the impossible**
 
-{{% notice info %}}
-<p style='text-align: left;'>
-**REMOVE:** With the exception of _index.md, the module folders and filenames should be changed to better reflect their content, i.e. 1_Planning as the folder and 11_HowToBegin as the first submodule. Changing the "weight" value of the header is ultimately what reflects the order the modules are presented.
-</p>
-{{% /notice %}}
-
-### Next Section Heading <!-- MODIFY THIS HEADING -->
-This paragraph block can optionally be utilized to lead into the next section of the workshop.
+For over a decade, and across three companies, our founding team has been focused on solving the pains of data access – it’s too slow, inflexible, and expensive. Starburst provides a modern solution that addresses these data silo & speed of access problems. We help companies harness the value of open source Trino, the fastest distributed analytics engine available today, by adding the connectors, security, and 24×7 support that meet the needs for fast data access at scale.
