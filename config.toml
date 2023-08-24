@@ -84,8 +84,3 @@ weight = 23
 title = "English"
 weight = 1
 languageName = "English"
-
-[Languages.ee]
-title = "Event Engine Setup"
-weight = 2
-languageName = "Event Engine Setup"
