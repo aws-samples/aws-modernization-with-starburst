@@ -294,8 +294,7 @@ Now, put the puzzle pieces together to fulfill the initial ask of aggregating th
         region_name
     ORDER BY
         total_confirmed_cases DESC;
-    
 
-### Next Steps
+### Challenge & Next Steps
 
-Now that you have explored the query federation capabilities of Starburst Galaxy, try exploring more by connecting your own data.
+Now that you have explored the query federation capabilities of Starburst Galaxy using the curated dataset and prebuilt SQL queries, try exploring the full dataset by writing your own SQL queries or by connecting your own data to the cluster.

@@ -11,7 +11,7 @@ The Starburst Galaxy access control system uses roles to provide users with priv
 
 Configure the accountadmin role to access the COVID-19 data lake location. (But if you have already gone through these steps at the direction of a different Starburst Galaxy tutorial, there is no need to repeat them.)
 
-1.  In the navigation menu, select **Roles and privileges**.
+1.  In the navigation menu, select **Access Control** > **Roles and privileges**.
 2.  Click on the `accountadmin` role name.
 3.  Select the **Privileges** tab.
 4.  Select **Add privilege**.
